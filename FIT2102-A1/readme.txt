@@ -9,7 +9,8 @@ proper use of pure functions and observable streams.
 
 File: pong.ts
 Description: 
-Contains my written code for the assignment.
+Contains my written code for the assignment. Note that npm needs to be installed and 
+built in order to run the program.
 
 File: 30503124_TanJiajun.pdf
 Description
