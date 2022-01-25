@@ -12,6 +12,8 @@ Code must show understanding and implementation of object orientated design choi
 
 File: project
 Description: 
-Contains the Java files and Design Documentation regarding the assignment. Inside contains
-the source file for the written assignment code, and another file documenting the design 
-rationale done by my partner and I.
+Contains assignment deliverables, organised into separate folders.
+assignment-docs >> written assignment deliverables
+design-docs >> design documentation of the project
+src >> contains all java source code.
+work-breakdown-agreement >> word documents to track the work segregation to group members.
